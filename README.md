@@ -21,3 +21,6 @@ https://github.com/jaagr/polybar
 # FEH
 https://feh.finalrewind.org/ (or for debian/ubuntu apt-get feh)
 
+# RXVT-UNICODE (URXVT)
+https://github.com/exg/rxvt-unicode ( or for debian/ubuntu apt-get rxvt-unicode)
+
