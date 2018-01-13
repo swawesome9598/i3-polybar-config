@@ -1,3 +1,7 @@
+# SCREENSHOT
+
+![i3](https://raw.githubusercontent.com/swawesome9598/i3-polybar-config/master/desktop.png)
+
 # i3/polybar config
 
 This is my i3gaps/polybar config feel free to modify,use, or fork this repository.
