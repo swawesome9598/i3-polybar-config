@@ -24,3 +24,6 @@ https://feh.finalrewind.org/ (or for debian/ubuntu apt-get feh)
 # RXVT-UNICODE (URXVT)
 https://github.com/exg/rxvt-unicode ( or for debian/ubuntu apt-get rxvt-unicode)
 
+# COMPTON 
+https://github.com/chjj/compton ( or for debian/ubuntu apt-get compton )
+
