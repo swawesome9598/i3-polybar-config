@@ -1,6 +1,6 @@
 # SCREENSHOT
 
-![i3](https://raw.githubusercontent.com/swawesome9598/i3-polybar-config/master/desktop1.png)
+![i3](https://raw.githubusercontent.com/swawesome9598/i3-polybar-config/master/rice.png)
 
 # i3/polybar config
 
